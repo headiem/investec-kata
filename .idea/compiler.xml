@@ -12,8 +12,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="highest-common-factor" target="1.8" />
-      <module name="investec-kata-test" target="1.5" />
-      <module name="pretty-print-address" target="1.5" />
+      <module name="investec-kata-test" target="8" />
+      <module name="pretty-print-address" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
